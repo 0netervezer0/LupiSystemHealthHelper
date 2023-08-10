@@ -1,2 +1,3 @@
 # LupiSystemHealthHelper
-Программа, использующая стандартные утилиты Windows, созданная для упрощённого сканирования и обнаружения ошибок в системе
+A program that uses standard Windows utilities, designed to easily scan and detect errors in the system
+*only russian language supported*
